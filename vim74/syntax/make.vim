@@ -141,3 +141,5 @@ let b:current_syntax = "make"
 let &cpo = s:cpo_save
 unlet s:cpo_save
 " vim: ts=8
+set tabstop=4
+145 set noexpandtab
