@@ -550,3 +550,8 @@ let &cpo = s:cpo_sav
 unlet! s:cpo_sav
 
 " vim: nowrap sw=2 sts=2 ts=8 noet fdm=marker:
+
+" Content below changed on 01/11/2017
+setlocal tabstop=2
+setlocal softtabstop=2
+setlocal shiftwidth=2

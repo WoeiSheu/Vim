@@ -79,5 +79,6 @@ let b:current_syntax = "less"
 " vim:set sw=2:
 
 " Content below changed on 01/11/2017
-set tabstop=2
-set shiftwidth=2
+setlocal tabstop=2
+setlocal softtabstop=2
+setlocal shiftwidth=2
