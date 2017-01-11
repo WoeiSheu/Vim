@@ -18,3 +18,6 @@ hi def link scssComment sassComment
 let b:current_syntax = "scss"
 
 " vim:set sw=2:
+
+" Content below changed on 01/11/2017
+set shiftwidth=2

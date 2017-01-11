@@ -77,3 +77,6 @@ hi def link lessMedia                   cssMedia
 let b:current_syntax = "less"
 
 " vim:set sw=2:
+
+" Content below changed on 01/11/2017
+set shiftwidth=2

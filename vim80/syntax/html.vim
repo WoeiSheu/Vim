@@ -281,3 +281,6 @@ endif
 let &cpo = s:cpo_save
 unlet s:cpo_save
 " vim: ts=8
+
+" Content below changed on 01/11/2017
+set shiftwidth=2
