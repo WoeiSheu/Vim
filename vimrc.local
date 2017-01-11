@@ -1,11 +1,12 @@
+filetype on
+filetype plugin on
+filetype indent on
 syntax on
-set autoindent
-set smartindent
 set expandtab
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
+set smartindent
+set autoindent
 set number
 set formatoptions-=cro
-autocmd FileType html,css,scss,less,javascript,json,ruby,pyhton set shiftwidth=2 tabstop=2 softtabstop=2
-autocmd FileType make set noexpandtab
